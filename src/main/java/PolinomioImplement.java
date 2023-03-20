@@ -17,16 +17,19 @@ public class PolinomioImplement implements Polinomio{
     public void cargarTermino(int valor, int termino) {
         if (valor != 0) {
             nodo nuevoNodo = new datoPolinomioImplement(valor, termino);
+            if (nuevoNodo == null || nuevoNodo.getDato() == null) {
+                return;
+            }
             if (terminoMayor == null) {
                 terminoMayor = nuevoNodo;
             } else {
                 nodo actual = terminoMayor;
                 nodo anterior = null;
-                while (actual != null && actual.getDato().getTermino() > termino) {
+                while (actual != null && actual.getDato() != null && actual.getDato().getTermino() > termino) {
                     anterior = actual;
                     actual = actual.getSiguiente();
                 }
-                if (actual != null && actual.getDato().getTermino() == termino) {
+                if (actual != null && actual.getDato() != null && actual.getDato().getTermino() == termino) {
                     actual.getDato().setValor(valor);
                 } else {
                     nuevoNodo.setSiguiente(actual);
