@@ -3,16 +3,9 @@ public class Main {
     public static void main(String[] args) {
         PolinomioImplement polinomio = new PolinomioImplement();
         polinomio.cargarTermino(2, 3);
-        polinomio.cargarTermino(3, 2);
-        polinomio.cargarTermino(4, 1);
-        polinomio.cargarTermino(5, 1);
-        polinomio.cargarTermino(1, 0);
-        polinomio.mostrarContenido();
 
         polinomio.modificarTermino(-1, 3);
         polinomio.eliminarTermino(1);
-        polinomio.mostrarContenido();
-
         PolinomioImplement otroPolinomio = new PolinomioImplement();
         otroPolinomio.cargarTermino(2, 3);
         otroPolinomio.cargarTermino(-1, 1);

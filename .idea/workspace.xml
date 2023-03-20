@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d18beaab-4bb8-406f-b934-bc9f74c883e5" name="Changes" comment="Nuevos cambios">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datoPolinomioImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datoPolinomioImplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PolinomioImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PolinomioImplement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <workItem from="1679135155387" duration="8000" />
       <workItem from="1679135397908" duration="110000" />
       <workItem from="1679138023522" duration="1033000" />
-      <workItem from="1679308307102" duration="1886000" />
+      <workItem from="1679308307102" duration="2209000" />
     </task>
     <task id="LOCAL-00001" summary="Nuevos cambios">
       <created>1679309599750</created>
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679309849303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Nuevos cambios">
+      <created>1679310427398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679310427398</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
