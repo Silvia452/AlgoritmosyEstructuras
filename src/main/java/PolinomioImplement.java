@@ -17,7 +17,7 @@ public class PolinomioImplement implements Polinomio{
     public void cargarTermino(int valor, int termino) {
         if (valor != 0) {
             nodo nuevoNodo = new datoPolinomioImplement(valor, termino);
-            if (nuevoNodo == null || nuevoNodo.getDato() == null) {
+            if (nuevoNodo.getDato() == null) {
                 return;
             }
             if (terminoMayor == null) {
