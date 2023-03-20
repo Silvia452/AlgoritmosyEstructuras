@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d18beaab-4bb8-406f-b934-bc9f74c883e5" name="Changes" comment="Nuevos cambios">
+    <list default="true" id="d18beaab-4bb8-406f-b934-bc9f74c883e5" name="Changes" comment="Arreglando">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datoPolinomio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datoPolinomio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datoPolinomioImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datoPolinomioImplement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
       <workItem from="1679135155387" duration="8000" />
       <workItem from="1679135397908" duration="110000" />
       <workItem from="1679138023522" duration="1033000" />
-      <workItem from="1679308307102" duration="3057000" />
+      <workItem from="1679308307102" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="Nuevos cambios">
       <created>1679309599750</created>
@@ -107,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679311202376</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Arreglando">
+      <created>1679311565492</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679311565492</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nuevos cambios" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nuevos cambios" />
+    <MESSAGE value="Arreglando" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arreglando" />
   </component>
 </project>

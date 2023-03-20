@@ -1,4 +1,4 @@
-public class datoPolinomioImplement implements nodo {
+public class datoPolinomioImplement implements datoPolinomio, nodo {
     private int valor;
     private int termino;
 
@@ -7,6 +7,23 @@ public class datoPolinomioImplement implements nodo {
         this.termino = termino;
 
     }
+
+    public int getValor() {
+        return valor;
+    }
+
+    public void setValor(int valor) {
+        this.valor = valor;
+    }
+
+    public int getTermino() {
+        return termino;
+    }
+
+    public void setTermino(int termino) {
+        this.termino = termino;
+    }
+
 
     @Override
     public datoPolinomio getDato() {
