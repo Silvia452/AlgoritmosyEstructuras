@@ -8,8 +8,13 @@ public class Main {
         miPolinomio.cargarTermino(5, 0);
         // Mostrar contenido del polinomio en la consola
         miPolinomio.mostrarContenido();
+        // Modificar término del polinomio
+        miPolinomio.modificarTermino(4, 2);
+        // Mostrar contenido del polinomio en la consola
+        miPolinomio.mostrarContenido();
 
-        
+
+
 
     }
 }
