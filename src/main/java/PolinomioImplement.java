@@ -16,7 +16,7 @@ public class PolinomioImplement implements Polinomio{
     @Override
     public void cargarTermino(int valor, int termino) {
         if (valor != 0) {
-            nodo nuevoNodo = new datoPolinomioImplement(valor, termino);
+            nodo nuevoNodo = new nodoImplement(new datoPolinomioImplement(valor, termino));
             if (nuevoNodo.getDato() == null) {
                 return;
             }

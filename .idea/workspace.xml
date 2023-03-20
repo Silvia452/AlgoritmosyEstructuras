@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d18beaab-4bb8-406f-b934-bc9f74c883e5" name="Changes" comment="Arreglando">
-      <change beforePath="$PROJECT_DIR$/src/main/java/PolinomioImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PolinomioImplement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datoPolinomioImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datoPolinomioImplement.java" afterDir="false" />
-    </list>
+    <list default="true" id="d18beaab-4bb8-406f-b934-bc9f74c883e5" name="Changes" comment="Más cambios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
       <workItem from="1679135155387" duration="8000" />
       <workItem from="1679135397908" duration="110000" />
       <workItem from="1679138023522" duration="1033000" />
-      <workItem from="1679308307102" duration="4203000" />
+      <workItem from="1679308307102" duration="4475000" />
     </task>
     <task id="LOCAL-00001" summary="Nuevos cambios">
       <created>1679309599750</created>
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679312427929</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Más cambios">
+      <created>1679312780491</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679312780491</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nuevos cambios" />
     <MESSAGE value="Arreglando" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arreglando" />
+    <MESSAGE value="Más cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Más cambios" />
   </component>
 </project>
