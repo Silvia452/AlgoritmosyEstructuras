@@ -5,7 +5,7 @@ public class datoPolinomioImplement implements nodo {
     public datoPolinomioImplement(int valor, int termino) {
         this.valor = valor;
         this.termino = termino;
-        this.setSiguiente(null);
+
     }
 
     @Override
