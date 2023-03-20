@@ -1,4 +1,4 @@
-public abstract class PolinomioImplement implements Polinomio{
+public class PolinomioImplement implements Polinomio{
     private int grado;
     private nodo terminoMayor;
 
